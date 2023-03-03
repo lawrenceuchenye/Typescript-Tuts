@@ -1,0 +1,4 @@
+
+-- read up on function return type ts
+-- read up on interfaces ts
+
