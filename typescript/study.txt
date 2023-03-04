@@ -1,4 +1,5 @@
 
 -- read up on function return type ts
 -- read up on interfaces ts
-
+-- study never/unknown ts
+-- study generic types
